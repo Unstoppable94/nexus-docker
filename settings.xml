@@ -53,7 +53,7 @@ under the License.
   <localRepository>/path/to/local/repo</localRepository>
   -->
   
-  
+  <localRepository>/src/ciexample/m2/repository</localRepository>
 
 
 
@@ -102,14 +102,7 @@ under the License.
       <nonProxyHosts>local.net|some.host.com</nonProxyHosts>
     </proxy>
     -->
-    <proxy>
-      <id>optional</id>
-      <active>true</active>
-      <protocol>http</protocol>
-      <host>10.10.112.89</host>
-      <port>1080</port>
-      <nonProxyHosts>local.net|some.host.com</nonProxyHosts>
-    </proxy>
+
   </proxies>
 
   <!-- servers
