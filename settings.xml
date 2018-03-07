@@ -53,7 +53,7 @@ under the License.
   <localRepository>/path/to/local/repo</localRepository>
   -->
   
-  <localRepository>/src/ciexample/m2/repository</localRepository>
+  <localRepository>/src/m2/repository</localRepository>
 
 
 
